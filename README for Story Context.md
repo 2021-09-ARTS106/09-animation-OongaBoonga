@@ -11,5 +11,5 @@ Principles at Play:
 	Appeal
 
 Emotions being Conveyed:
-	Happiness (bright yellow)
+	Happiness (bright yellow/orange)
 	Anger (BIG RED)
