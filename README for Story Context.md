@@ -12,5 +12,4 @@ Principles at Play:
 
 Emotions being Conveyed:
 	Happiness (bright yellow)
-	Envy (green)
 	Anger (BIG RED)
